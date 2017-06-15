@@ -1,0 +1,42 @@
+body
+{background: url(http://www.rabstol.net/uploads/gallery/main/37/rabstol_net_the_big_bang_theory_15.jpg);
+background-size: cover;}
+h1 {
+    font-size: 28px;
+    font-family: Bookman Old Style, Courier, monospace;
+    color: #d6f1f3;
+
+}
+h2 {
+  font-size: 24px;
+  font-family: Bookman Old Style, cursive;
+  color: #f4cafd;
+}
+
+p {
+  font-size: 28px;
+  font-family:Cooper red, cursive;
+  color: black
+}
+li {
+  font-size: 19px;
+  font-family:Bookman Old Style, cursive;
+  color: #d6f1f3
+}
+.main{text-align: center;}
+span {
+  font-family: monospace;
+}
+a {
+  font-family: cursive;
+  color: yellow
+}
+a:hover {
+  color: blue;
+  font-size: 30px;
+
+}
+ul {
+  list-style-type:circle;
+  /*list-style-image: url();*/
+}
