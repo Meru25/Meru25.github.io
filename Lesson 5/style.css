@@ -1,0 +1,111 @@
+h1 {
+  font-size: 40px;
+  font-family: 'Alfa Slab One', cursive;
+  text-align: center;
+}
+h2 {
+  font-size: 12px;
+  font-family: 'Syncopate', sans-serif;
+  text-align: center;
+  margin-top: -1.8%;
+
+}
+header {
+  width: 100%;
+  background-color: black;
+  height: 60px;
+  border-bottom: 3px solid black;
+
+}
+.menulinks {
+    color: white;
+    display: inline;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1rem;
+    float: left;
+    padding-left:5%;
+    padding-top:1%;
+
+
+}
+.catimes {
+  height: 80px;
+  width:100%;
+  margin: 0;
+  padding:0;
+}
+.cat ul li{
+  color: black;
+  list-style-type: none;
+  display: inline;
+  margin: 50px;
+
+
+}
+
+    li {
+  display: inline;
+  color: white;
+  margin: 45px;
+  font-family: 'Spectral', serif;
+}
+  .fb  {
+  float: right;
+  margin-right: 20px;
+  margin-top: 1%
+  }
+
+  .clear{
+    clear: both;
+  }
+  .section2{
+    margin: 5% 0% 0 0%;
+    height:100vh;
+    clear:both;
+  }
+  .sec2blk{
+    width:30%;
+    float:left;
+    padding: 1.5%;
+    text-align: center;
+    margin: 0;
+    /*margin-left: 25px;
+    magin-right: 25px;*/
+    /*text-align:center;*/
+  }
+  .sec2blk img:hover{
+    width: 102%;
+  }
+  h4{
+    font-family: 'Palanquin Dark', sans-serif;
+    font-size: 1.2rem;
+    text-align: left;
+  }
+
+  a {
+    text-decoration: none;
+    color:black;
+  }
+  p {
+    font-family: 'EB Garamond', serif;
+    color: grey;
+    font-size: 1rem;
+    font-weight: lighter;
+    text-align: left;
+  }
+  h3 {
+    font-family: 'Cinzel', serif;
+    font-size: 1.5rem;
+    border-width: 3 3 3 3px;border-style: solid; padding-left: 7px;
+    /*background-color: #d9dde2;*/
+  }
+  .end {
+    background-color: black;
+    height: 3vh;
+    margin-top: 20px;
+    padding: 1%;
+    width: 98%;
+    text-align: center;
+    font-family: 'Spectral', serif;
+    font-size: 20px;
+  }
